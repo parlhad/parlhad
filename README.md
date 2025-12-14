@@ -27,16 +27,23 @@ I am continuously improving my analytical thinking and technical skills by learn
 ### 🔹 Programming & Libraries  
 - Python  
 - Pandas  
-- NumPy  
+- NumPy
+- matplotlib
+- seaborn
+- joblib
+- scikit learn
+  
 
 ### 🔹 Databases  
 - SQL  
-- MySQL  
+- MySQL
+- Postgral  
 
 ### 🔹 Core Concepts  
 - Statistics & Probability  
 - Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis (EDA)
+    
 
 ---
 
