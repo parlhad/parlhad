@@ -87,6 +87,27 @@ I enjoy the blend of **logic, mathematics, and creativity** that data science an
 When I’m not working with data, I enjoy:  
 - 🎥 Watching movies and web series  
 - 🎵 Listening to music  
-- 🌍 Exploring trends in technology, AI, and data science  
+- 🌍 Exploring trends in technology, AI, and data science
 
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PralhadJadhav&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PralhadJadhav&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PralhadJadhav&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PralhadJadhav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=PralhadJadhav&icon=0&color=0)
+
+
+
+⭐ *Always learning, always improving — one dataset at a time.*
 ⭐ *Learning every day, improving step by step, and growing with data.*
